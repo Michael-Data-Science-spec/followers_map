@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+/* head {
+    background-image: url("paper.gif");
+    font-size: 8;
+    color: blue;
+    margin: 0;
+} */
+
+
+body {
+    background-image: url("paper.gif");
+    font-size: 8;
+    color: red;
+    margin: 0;
+}
